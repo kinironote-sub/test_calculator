@@ -6,4 +6,6 @@ int main(){
 	printf("入力した数字は%dと%dです。",n,m);
 	
 	printf("%d/%dは%fです。",n,m,(double)n/(double)m);
+	
+	printf("%d*%dは%dです。",n,m,n*m);
 }
