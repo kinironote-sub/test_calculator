@@ -7,4 +7,6 @@ int main(){
 	
 	m==0 ? printf("0では割ることができません！")
 	: printf("%d/%dは%fです。",n,m,(double)n/(double)m);
+	
+	printf("%d*%dは%dです。",n,m,n*m);
 }
